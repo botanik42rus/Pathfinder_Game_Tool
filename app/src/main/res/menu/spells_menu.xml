@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:orderInCategory="1"
+        android:id="@+id/FavoriteFrame"
+        android:title="Избранные"
+        android:icon="@drawable/ic_star"/>
+    <item android:orderInCategory="2"
+        android:id="@+id/LibraryFrame"
+        android:title="Библиотека"
+        android:icon="@drawable/ic_library"/>
+</menu>
